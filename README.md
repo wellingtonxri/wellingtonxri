@@ -23,5 +23,8 @@
   <a href="https://www.linkedin.com/in/wellington-ara%C3%BAjo-526106207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/wellingtonxri/wellingtonxri/blob/output/github-contribution-grid-snake.svg)
-  
+   <p align="right"> 
+   <img alingn="right" src="https://profile-counter.glitch.me/wellingtonxri/count.svg" />
 </div>
+  
+  
